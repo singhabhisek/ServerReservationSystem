@@ -1,0 +1,6 @@
+﻿Prerequisites:
+===================
+
+MySQL for Visual Studio 1.2.10
+AjaxControlToolKit - https://www.nuget.org/packages/AjaxControlToolkit/
+DayPilot - https://www.nuget.org/packages/DayPilot/
